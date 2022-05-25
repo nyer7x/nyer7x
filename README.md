@@ -16,7 +16,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="![image](https://user-images.githubusercontent.com/106220859/170179921-ac7e6ce1-3548-48a2-a7d7-81ac01688d13.png)">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/847544693629517834/978876708168036432/Foto_de_Perfil_YT.jpg">
 </div>
   
   ##
